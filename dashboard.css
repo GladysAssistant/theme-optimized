@@ -17845,3 +17845,1396 @@ svg {
 .fe-zoom-out:before {
   content: "\ea06";
 }
+
+
+@font-face {
+  font-family: "hue";
+  src: url("./fonts/hue/hue-icons.woff") format("woff"),
+    url("./fonts/hue/hue-icons.ttf") format("truetype");
+}
+
+.hue {
+  font-family: "hue" !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hue-adore-alt:before {
+  content: "\e900";
+}
+.hue-adore-mirror:before {
+  content: "\e901";
+}
+.hue-adore:before {
+  content: "\e902";
+}
+.hue-amarant:before {
+  content: "\e903";
+}
+.hue-amaze-alt:before {
+  content: "\e904";
+}
+.hue-amaze:before {
+  content: "\e905";
+}
+.hue-aura-group:before {
+  content: "\e906";
+}
+.hue-aura:before {
+  content: "\e907";
+}
+.hue-beyond-down:before {
+  content: "\e908";
+}
+.hue-beyond-solid:before {
+  content: "\e909";
+}
+.hue-beyond-up:before {
+  content: "\e90a";
+}
+.hue-beyond:before {
+  content: "\e90b";
+}
+.hue-bloom-group:before {
+  content: "\e90d";
+}
+.hue-bulb-classic-hung:before {
+  content: "\e90e";
+}
+.hue-bulb-classic-off:before {
+  content: "\e90f";
+}
+.hue-bulb-filament-alt:before {
+  content: "\e910";
+}
+.hue-bulb-filament-candle:before {
+  content: "\e911";
+}
+.hue-bulb-filament-hung:before {
+  content: "\e912";
+}
+.hue-bulb-golfball-e14:before {
+  content: "\e913";
+}
+.hue-bulb-group-bollard-3:before {
+  content: "\e914";
+}
+.hue-bulb-group-bollard:before {
+  content: "\e915";
+}
+.hue-bulb-group-candle:before {
+  content: "\e916";
+}
+.hue-bulb-group-ceiling-round:before {
+  content: "\e917";
+}
+.hue-bulb-group-ceiling-square:before {
+  content: "\e918";
+}
+.hue-bulb-group-centura-round:before {
+  content: "\e919";
+}
+.hue-bulb-group-centura:before {
+  content: "\e91a";
+}
+.hue-bulb-group-classic-hung:before {
+  content: "\e91b";
+}
+.hue-bulb-group-classic:before {
+  content: "\e91c";
+}
+.hue-bulb-group-filament-alt:before {
+  content: "\e91d";
+}
+.hue-bulb-group-filament-candle:before {
+  content: "\e91e";
+}
+.hue-bulb-group-filament-filament-alt:before {
+  content: "\e91f";
+}
+.hue-bulb-group-filament-go:before {
+  content: "\e920";
+}
+.hue-bulb-group-filament-hung:before {
+  content: "\e921";
+}
+.hue-bulb-group-filament-spot:before {
+  content: "\e922";
+}
+.hue-bulb-group-filament-sultan:before {
+  content: "\e923";
+}
+.hue-bulb-group-filament:before {
+  content: "\e924";
+}
+.hue-bulb-group-go-filament:before {
+  content: "\e925";
+}
+.hue-bulb-group-go-sultan:before {
+  content: "\e926";
+}
+.hue-bulb-group-golfball-e14:before {
+  content: "\e927";
+}
+.hue-bulb-group-lightstrip-v:before {
+  content: "\e928";
+}
+.hue-bulb-group-lightstrip:before {
+  content: "\e929";
+}
+.hue-bulb-group-pillar-impress-3:before {
+  content: "\e92a";
+}
+.hue-bulb-group-pillar-impress-short:before {
+  content: "\e92b";
+}
+.hue-bulb-group-pillar-impress:before {
+  content: "\e92c";
+}
+.hue-bulb-group-spot:before {
+  content: "\e92d";
+}
+.hue-bulb-group-sultan-go:before {
+  content: "\e92e";
+}
+.hue-bulb-group-sultan-lightstrip-off:before {
+  content: "\e92f";
+}
+.hue-bulb-group-sultan-lightstrip:before {
+  content: "\e930";
+}
+.hue-bulb-group-sultan-spot-off:before {
+  content: "\e931";
+}
+.hue-bulb-group-sultan-spot:before {
+  content: "\e932";
+}
+.hue-bulb-par-38:before {
+  content: "\e933";
+}
+.hue-bulb-spot-off:before {
+  content: "\e934";
+}
+.hue-bulb-sultan-off:before {
+  content: "\e935";
+}
+.hue-button:before {
+  content: "\e936";
+}
+.hue-ceiling-aurelle-circle:before {
+  content: "\e937";
+}
+.hue-ceiling-aurelle-rect:before {
+  content: "\e938";
+}
+.hue-ceiling-aurelle:before {
+  content: "\e939";
+}
+.hue-ceiling-being:before {
+  content: "\e93a";
+}
+.hue-ceiling-beyond-alt:before {
+  content: "\e93b";
+}
+.hue-ceiling-beyond:before {
+  content: "\e93c";
+}
+.hue-ceiling-buckram-three:before {
+  content: "\e93d";
+}
+.hue-ceiling-buckram-two:before {
+  content: "\e93e";
+}
+.hue-ceiling-buckram:before {
+  content: "\e93f";
+}
+.hue-ceiling-buratto-four:before {
+  content: "\e940";
+}
+.hue-ceiling-buratto-three:before {
+  content: "\e941";
+}
+.hue-ceiling-buratto-two:before {
+  content: "\e942";
+}
+.hue-ceiling-buratto:before {
+  content: "\e943";
+}
+.hue-ceiling-cher-semiflush:before {
+  content: "\e944";
+}
+.hue-ceiling-explore:before {
+  content: "\e945";
+}
+.hue-ceiling-fair-semiflush:before {
+  content: "\e946";
+}
+.hue-ceiling-fair:before {
+  content: "\e947";
+}
+.hue-ceiling-flourish-pendant:before {
+  content: "\e948";
+}
+.hue-ceiling-flourish:before {
+  content: "\e949";
+}
+.hue-ceiling-flush-circular:before {
+  content: "\e94a";
+}
+.hue-ceiling-fugato-four-alt:before {
+  content: "\e94b";
+}
+.hue-ceiling-fugato-four:before {
+  content: "\e94c";
+}
+.hue-ceiling-fugato-three-alt:before {
+  content: "\e94d";
+}
+.hue-ceiling-fugato-three:before {
+  content: "\e94e";
+}
+.hue-ceiling-fugato-two-alt:before {
+  content: "\e94f";
+}
+.hue-ceiling-fugato-two:before {
+  content: "\e950";
+}
+.hue-ceiling-infuse:before {
+  content: "\e951";
+}
+.hue-ceiling-muscari:before {
+  content: "\e952";
+}
+.hue-ceiling-rect:before {
+  content: "\e953";
+}
+.hue-ceiling-still:before {
+  content: "\e954";
+}
+.hue-ceiling-surimu:before {
+  content: "\e955";
+}
+.hue-centris-three:before {
+  content: "\e956";
+}
+.hue-centris-two:before {
+  content: "\e957";
+}
+.hue-centris:before {
+  content: "\e958";
+}
+.hue-centura-round:before {
+  content: "\e959";
+}
+.hue-centura-two:before {
+  content: "\e95a";
+}
+.hue-centura:before {
+  content: "\e95b";
+}
+.hue-daylo-wall:before {
+  content: "\e95c";
+}
+.hue-ensis-up:before {
+  content: "\e95d";
+}
+.hue-ensis:before {
+  content: "\e95e";
+}
+.hue-floor-lantern-group:before {
+  content: "\e95f";
+}
+.hue-floor-lantern-off:before {
+  content: "\e960";
+}
+.hue-flourish-alt:before {
+  content: "\e961";
+}
+.hue-flourish:before {
+  content: "\e962";
+}
+.hue-friends-of-hue-20042LEDSWACDMG-BLRFR:before {
+  content: "\e963";
+}
+.hue-friends-of-hue-arke-round:before {
+  content: "\e964";
+}
+.hue-friends-of-hue-arke:before {
+  content: "\e965";
+}
+.hue-friends-of-hue-eikon:before {
+  content: "\e966";
+}
+.hue-friends-of-hue-flat-p-alt:before {
+  content: "\e967";
+}
+.hue-friends-of-hue-flat-p:before {
+  content: "\e968";
+}
+.hue-friends-of-hue-iq-flush:before {
+  content: "\e969";
+}
+.hue-friends-of-hue-iq-pendant:before {
+  content: "\e96a";
+}
+.hue-friends-of-hue-retrotouch-black-chrome:before {
+  content: "\e96b";
+}
+.hue-friends-of-hue-retrotouch-black-plain:before {
+  content: "\e96c";
+}
+.hue-friends-of-hue-retrotouch-white-chrome:before {
+  content: "\e96d";
+}
+.hue-friends-of-hue-retrotouch-white-plain:before {
+  content: "\e96e";
+}
+.hue-friends-of-hue-senic:before {
+  content: "\e96f";
+}
+.hue-go-group:before {
+  content: "\e970";
+}
+.hue-go-off:before {
+  content: "\e971";
+}
+.hue-gradient-lightstrip-wrap:before {
+  content: "\e972";
+}
+.hue-gradient-lightstrip:before {
+  content: "\e973";
+}
+.hue-gradient-tube-long:before {
+  content: "\e974";
+}
+.hue-gradient-tube-short:before {
+  content: "\e975";
+}
+.hue-liane:before {
+  content: "\e976";
+}
+.hue-lightstrip-off:before {
+  content: "\e977";
+}
+.hue-lightstrip-tv-alt:before {
+  content: "\e978";
+}
+.hue-lightstrip-tv-off:before {
+  content: "\e979";
+}
+.hue-lightstrip-tv:before {
+  content: "\e97a";
+}
+.hue-lightstrip-wrap:before {
+  content: "\e97b";
+}
+.hue-lily-two:before {
+  content: "\e97c";
+}
+.hue-lily-xl:before {
+  content: "\e97d";
+}
+.hue-lily:before {
+  content: "\e97e";
+}
+.hue-logo-alt:before {
+  content: "\e97f";
+}
+.hue-logo:before {
+  content: "\e980";
+}
+.hue-pedestal-econic:before {
+  content: "\e981";
+}
+.hue-pendant-being:before {
+  content: "\e982";
+}
+.hue-pendant-cher:before {
+  content: "\e983";
+}
+.hue-pendant-long-up:before {
+  content: "\e984";
+}
+.hue-pendant-muscari:before {
+  content: "\e985";
+}
+.hue-phoenix-pendant:before {
+  content: "\e986";
+}
+.hue-phoenix-plafond:before {
+  content: "\e987";
+}
+.hue-phoenix-semiflush:before {
+  content: "\e988";
+}
+.hue-phoenix-table:before {
+  content: "\e989";
+}
+.hue-pillar-impress-short:before {
+  content: "\e98a";
+}
+.hue-pillar-impress:before {
+  content: "\e98b";
+}
+.hue-pillar-nyro:before {
+  content: "\e98c";
+}
+.hue-pillar-spot-double:before {
+  content: "\e98d";
+}
+.hue-pillar-spot:before {
+  content: "\e98e";
+}
+.hue-pillar-tuar:before {
+  content: "\e98f";
+}
+.hue-play-bar-three:before {
+  content: "\e990";
+}
+.hue-play-bar-two:before {
+  content: "\e991";
+}
+.hue-play-bar-v-alt:before {
+  content: "\e992";
+}
+.hue-play-bar-v-two-in:before {
+  content: "\e993";
+}
+.hue-play-bar-v-two-out:before {
+  content: "\e994";
+}
+.hue-play-bar-v-two:before {
+  content: "\e995";
+}
+.hue-play-bar-v:before {
+  content: "\e996";
+}
+.hue-plug-eu:before {
+  content: "\e997";
+}
+.hue-plug-uk:before {
+  content: "\e998";
+}
+.hue-sana-alt:before {
+  content: "\e999";
+}
+.hue-sana:before {
+  content: "\e99a";
+}
+.hue-signe-gradient-floor:before {
+  content: "\e99b";
+}
+.hue-signe-gradient-table:before {
+  content: "\e99c";
+}
+.hue-signe:before {
+  content: "\e99d";
+}
+.hue-socket-eu:before {
+  content: "\e99e";
+}
+.hue-socket-uk:before {
+  content: "\e99f";
+}
+.hue-socket-us:before {
+  content: "\e9a0";
+}
+.hue-sync-box-alt:before {
+  content: "\e9a1";
+}
+.hue-sync-box:before {
+  content: "\e9a2";
+}
+.hue-tap:before {
+  content: "\e9a3";
+}
+.hue-wall-appear-group:before {
+  content: "\e9a4";
+}
+.hue-wall-appear:before {
+  content: "\e9a5";
+}
+.hue-wall-attract:before {
+  content: "\e9a6";
+}
+.hue-wall-econic-lantern-base:before {
+  content: "\e9a7";
+}
+.hue-wall-econic-lantern-top:before {
+  content: "\e9a8";
+}
+.hue-wall-econic-lantern:before {
+  content: "\e9a9";
+}
+.hue-wall-econic:before {
+  content: "\e9aa";
+}
+.hue-wall-flood:before {
+  content: "\e9ab";
+}
+.hue-wall-fuzo-h:before {
+  content: "\e9ac";
+}
+.hue-wall-fuzo:before {
+  content: "\e9ad";
+}
+.hue-wall-impress-narrow:before {
+  content: "\e9ae";
+}
+.hue-wall-impress:before {
+  content: "\e9af";
+}
+.hue-wall-lucca-alt-below:before {
+  content: "\e9b0";
+}
+.hue-wall-lucca-alt:before {
+  content: "\e9b1";
+}
+.hue-wall-lucca:before {
+  content: "\e9b2";
+}
+.hue-wall-nyro:before {
+  content: "\e9b3";
+}
+.hue-wall-resonate:before {
+  content: "\e9b4";
+}
+.hue-wall-tuar:before {
+  content: "\e9b5";
+}
+.hue-wall-turaco:before {
+  content: "\e9b6";
+}
+.hue-wellner-solid:before {
+  content: "\e9b7";
+}
+.hue-wellner:before {
+  content: "\e9b8";
+}
+.hue-wellness:before {
+  content: "\e9b9";
+}
+.hue-bloom:before {
+  content: "\e9ba";
+}
+.hue-bollard:before {
+  content: "\e9bb";
+}
+.hue-bulb-candle:before {
+  content: "\e9bc";
+}
+.hue-bulb-classic:before {
+  content: "\e9bd";
+}
+.hue-bulb-filament:before {
+  content: "\e9be";
+}
+.hue-bulb-flood:before {
+  content: "\e9bf";
+}
+.hue-bulb-group:before {
+  content: "\e9c0";
+}
+.hue-bulb-spot:before {
+  content: "\e9c1";
+}
+.hue-bulb-sultan:before {
+  content: "\e9c2";
+}
+.hue-ceiling-round:before {
+  content: "\e9c3";
+}
+.hue-ceiling-square:before {
+  content: "\e9c4";
+}
+.hue-desk-lamp:before {
+  content: "\e9c5";
+}
+.hue-dimmer-switch:before {
+  content: "\e9c6";
+}
+.hue-double-spot:before {
+  content: "\e9c7";
+}
+.hue-downstairs:before {
+  content: "\e9c8";
+}
+.hue-floor-lantern:before {
+  content: "\e9c9";
+}
+.hue-floor-shade:before {
+  content: "\e9ca";
+}
+.hue-floor-spot:before {
+  content: "\e9cb";
+}
+.hue-go:before {
+  content: "\e9cc";
+}
+.hue-iris:before {
+  content: "\e9cd";
+}
+.hue-lightstrip:before {
+  content: "\e9ce";
+}
+.hue-motion-sensor:before {
+  content: "\e9cf";
+}
+.hue-outdoor-motion-sensor:before {
+  content: "\e9d0";
+}
+.hue-pendant-long:before {
+  content: "\e9d1";
+}
+.hue-pendant-round:before {
+  content: "\e9d2";
+}
+.hue-play-bar:before {
+  content: "\e9d3";
+}
+.hue-plug:before {
+  content: "\e9d4";
+}
+.hue-recessed-ceiling:before {
+  content: "\e9d5";
+}
+.hue-recessed-floor:before {
+  content: "\e9d6";
+}
+.hue-room-attic:before {
+  content: "\e9d7";
+}
+.hue-room-balcony:before {
+  content: "\e9d8";
+}
+.hue-room-bathroom:before {
+  content: "\e9d9";
+}
+.hue-room-bbq:before {
+  content: "\e9da";
+}
+.hue-room-bedroom:before {
+  content: "\e9db";
+}
+.hue-room-carport:before {
+  content: "\e9dc";
+}
+.hue-room-closet:before {
+  content: "\e9dd";
+}
+.hue-room-computer:before {
+  content: "\e9de";
+}
+.hue-room-dining:before {
+  content: "\e9df";
+}
+.hue-room-driveway:before {
+  content: "\e9e0";
+}
+.hue-room-front-door:before {
+  content: "\e9e1";
+}
+.hue-room-games:before {
+  content: "\e9e2";
+}
+.hue-room-garage:before {
+  content: "\e9e3";
+}
+.hue-room-guestroom:before {
+  content: "\e9e4";
+}
+.hue-room-gym:before {
+  content: "\e9e5";
+}
+.hue-room-hallway:before {
+  content: "\e9e6";
+}
+.hue-room-kids:before {
+  content: "\e9e7";
+}
+.hue-room-kitchen:before {
+  content: "\e9e8";
+}
+.hue-room-laundry:before {
+  content: "\e9e9";
+}
+.hue-room-living:before {
+  content: "\e9ea";
+}
+.hue-room-lounge:before {
+  content: "\e9eb";
+}
+.hue-room-nursery:before {
+  content: "\e9ec";
+}
+.hue-room-office:before {
+  content: "\e9ed";
+}
+.hue-room-other:before {
+  content: "\e9ee";
+}
+.hue-room-outdoors:before {
+  content: "\e9ef";
+}
+.hue-room-pool:before {
+  content: "\e9f0";
+}
+.hue-room-porch:before {
+  content: "\e9f1";
+}
+.hue-room-recreation:before {
+  content: "\e9f2";
+}
+.hue-room-stairs:before {
+  content: "\e9f3";
+}
+.hue-room-storage:before {
+  content: "\e9f4";
+}
+.hue-room-studio:before {
+  content: "\e9f5";
+}
+.hue-room-terrace:before {
+  content: "\e9f6";
+}
+.hue-room-toilet:before {
+  content: "\e9f7";
+}
+.hue-single-spot:before {
+  content: "\e9f8";
+}
+.hue-table-shade:before {
+  content: "\e9f9";
+}
+.hue-table-wash:before {
+  content: "\e9fa";
+}
+.hue-upstairs:before {
+  content: "\e9fb";
+}
+.hue-wall-lantern:before {
+  content: "\e9fc";
+}
+.hue-wall-shade:before {
+  content: "\e9fd";
+}
+.hue-wall-spot:before {
+  content: "\e9fe";
+}
+.hue-bulb-group-candle-lightstrip:before {
+  content: "\e9ff";
+}
+.hue-bulb-group-filament-alt-hung:before {
+  content: "\ea00";
+}
+.hue-bulb-group-pillar-turaco-short-tall:before {
+  content: "\ea01";
+}
+.hue-ceiling-xamento:before {
+  content: "\ea02";
+}
+.hue-friends-of-hue-rigel:before {
+  content: "\ea03";
+}
+.hue-motion-sensor-temperature:before {
+  content: "\ea04";
+}
+.hue-outdoor-motion-sensor-temperature:before {
+  content: "\ea05";
+}
+.hue-pillar-turaco-short:before {
+  content: "\ea06";
+}
+.hue-pillar-turaco-tall:before {
+  content: "\ea07";
+}
+.hue-wall-switch-module:before {
+  content: "\ea08";
+}
+.hue-home:before {
+  content: "\ea09";
+}
+.hue-room-attic-alt:before {
+  content: "\ea0a";
+}
+.hue-friends-of-hue-aurora-dimmer-switch:before {
+  content: "\ea0b";
+}
+.hue-friends-of-hue-aurora-dimmer-switch-alt:before {
+  content: "\ea0c";
+}
+.hue-bulb-group-classic-hung-4:before {
+  content: "\ea0d";
+}
+.hue-bulb-group-classic-hung-4-alt:before {
+  content: "\ea0e";
+}
+.hue-bulb-group-classic-hung-3:before {
+  content: "\ea0f";
+}
+.hue-bulb-group-classic-hung-3-alt:before {
+  content: "\ea10";
+}
+.hue-bulb-group-classic-4:before {
+  content: "\ea11";
+}
+.hue-bulb-group-classic-4-alt:before {
+  content: "\ea12";
+}
+.hue-bulb-group-classic-3:before {
+  content: "\ea13";
+}
+.hue-bulb-group-classic-3-alt:before {
+  content: "\ea14";
+}
+.hue-bulb-group-bollard-wall-appear:before {
+  content: "\ea15";
+}
+.hue-pillar-spot-3:before {
+  content: "\ea16";
+}
+.hue-pillar-spot-2:before {
+  content: "\ea17";
+}
+.hue-bulb-group-par-38:before {
+  content: "\ea18";
+}
+.hue-struana:before {
+  content: "\ea19";
+}
+.hue-struana-alt:before {
+  content: "\ea1a";
+}
+.hue-pendant-devote-two-solid:before {
+  content: "\ea1b";
+}
+.hue-pendant-devote-three-solid:before {
+  content: "\ea1c";
+}
+.hue-pendant-devote-solid:before {
+  content: "\ea1d";
+}
+.hue-pendant-devote:before {
+  content: "\ea1e";
+}
+.hue-pendant-devote-two:before {
+  content: "\ea1f";
+}
+.hue-pendant-devote-three:before {
+  content: "\ea20";
+}
+.hue-adore-alt-off:before {
+  content: "\ea21";
+}
+.hue-amaze-alt-off:before {
+  content: "\ea22";
+}
+.hue-amaze-off:before {
+  content: "\ea23";
+}
+.hue-aura-group-off:before {
+  content: "\ea24";
+}
+.hue-aura-off:before {
+  content: "\ea25";
+}
+.hue-beyond-down-group-off:before {
+  content: "\ea26";
+}
+.hue-beyond-down-group:before {
+  content: "\ea27";
+}
+.hue-beyond-down-off:before {
+  content: "\ea28";
+}
+.hue-beyond-group-off:before {
+  content: "\ea29";
+}
+.hue-beyond-group:before {
+  content: "\ea2a";
+}
+.hue-beyond-off:before {
+  content: "\ea2b";
+}
+.hue-beyond-solid-group-off:before {
+  content: "\ea2c";
+}
+.hue-beyond-solid-group:before {
+  content: "\ea2d";
+}
+.hue-beyond-solid-off:before {
+  content: "\ea2e";
+}
+.hue-beyond-up-group-off:before {
+  content: "\ea2f";
+}
+.hue-beyond-up-group:before {
+  content: "\ea30";
+}
+.hue-beyond-up-off:before {
+  content: "\ea31";
+}
+.hue-bloom-group-off:before {
+  content: "\ea32";
+}
+.hue-bloom-off:before {
+  content: "\ea33";
+}
+.hue-bollard-off:before {
+  content: "\ea34";
+}
+.hue-bridge-v2-off:before {
+  content: "\ea35";
+}
+.hue-bulb-br30-hung-off:before {
+  content: "\ea36";
+}
+.hue-bulb-br30-hung:before {
+  content: "\ea37";
+}
+.hue-bulb-br30-off:before {
+  content: "\ea38";
+}
+.hue-bulb-br30:before {
+  content: "\ea39";
+}
+.hue-bulb-candle-hung-off:before {
+  content: "\ea3a";
+}
+.hue-bulb-candle-hung:before {
+  content: "\ea3b";
+}
+.hue-bulb-candle-off:before {
+  content: "\ea3c";
+}
+.hue-bulb-classic-hung-off:before {
+  content: "\ea3d";
+}
+.hue-bulb-filament-a19-hung-off:before {
+  content: "\ea3e";
+}
+.hue-bulb-filament-a19-hung:before {
+  content: "\ea3f";
+}
+.hue-bulb-filament-a19-off:before {
+  content: "\ea40";
+}
+.hue-bulb-filament-a19:before {
+  content: "\ea41";
+}
+.hue-bulb-filament-alt-hung:before {
+  content: "\ea42";
+}
+.hue-bulb-filament-hung-off:before {
+  content: "\ea43";
+}
+.hue-bulb-filament-off:before {
+  content: "\ea44";
+}
+.hue-bulb-group-bollard-3-off:before {
+  content: "\ea45";
+}
+.hue-bulb-group-bollard-off:before {
+  content: "\ea46";
+}
+.hue-bulb-group-br30-hung-off:before {
+  content: "\ea47";
+}
+.hue-bulb-group-br30-hung:before {
+  content: "\ea48";
+}
+.hue-bulb-group-br30-off:before {
+  content: "\ea49";
+}
+.hue-bulb-group-br30:before {
+  content: "\ea4a";
+}
+.hue-bulb-group-candle-filament-hung:before {
+  content: "\ea4b";
+}
+.hue-bulb-group-ceiling-flush-circular:before {
+  content: "\ea4c";
+}
+.hue-bulb-group-filament-alt-filament-hung-off:before {
+  content: "\ea4d";
+}
+.hue-bulb-group-filament-alt-filament-hung:before {
+  content: "\ea4e";
+}
+.hue-bulb-group-filament-alt-hung-off:before {
+  content: "\ea4f";
+}
+.hue-bulb-group-filament-alt-off:before {
+  content: "\ea50";
+}
+.hue-bulb-group-filament-filament-alt-hung:before {
+  content: "\ea51";
+}
+.hue-bulb-group-spot-hung-off:before {
+  content: "\ea52";
+}
+.hue-bulb-group-spot-hung:before {
+  content: "\ea53";
+}
+.hue-bulb-group-sultan-4-hung:before {
+  content: "\ea54";
+}
+.hue-bulb-group-sultan-4:before {
+  content: "\ea55";
+}
+.hue-bulb-group-sultan-hung:before {
+  content: "\ea56";
+}
+.hue-bulb-group-wall-nyro-flood-alt:before {
+  content: "\ea57";
+}
+.hue-bulb-group-wall-nyro-flood:before {
+  content: "\ea58";
+}
+.hue-bulb-spot-hung-off:before {
+  content: "\ea59";
+}
+.hue-bulb-spot-hung:before {
+  content: "\ea5a";
+}
+.hue-bulb-sultan-hung:before {
+  content: "\ea5b";
+}
+.hue-ceiling-adore-alt-flush:before {
+  content: "\ea5c";
+}
+.hue-ceiling-adore-alt:before {
+  content: "\ea5d";
+}
+.hue-ceiling-adore-flush:before {
+  content: "\ea5e";
+}
+.hue-ceiling-adore:before {
+  content: "\ea5f";
+}
+.hue-ceiling-aurelle-circle-off:before {
+  content: "\ea60";
+}
+.hue-ceiling-aurelle-off:before {
+  content: "\ea61";
+}
+.hue-ceiling-buratto-two-off:before {
+  content: "\ea62";
+}
+.hue-ceiling-devere-off:before {
+  content: "\ea63";
+}
+.hue-ceiling-devere:before {
+  content: "\ea64";
+}
+.hue-ceiling-fugato-two-off:before {
+  content: "\ea65";
+}
+.hue-ceiling-rect-off:before {
+  content: "\ea66";
+}
+.hue-ceiling-runner-three-bulb-one:before {
+  content: "\ea67";
+}
+.hue-ceiling-runner-three-bulb-three:before {
+  content: "\ea68";
+}
+.hue-ceiling-runner-three-bulb-two:before {
+  content: "\ea69";
+}
+.hue-ceiling-runner-three:before {
+  content: "\ea6a";
+}
+.hue-ceiling-runner-two-bulb-one:before {
+  content: "\ea6b";
+}
+.hue-ceiling-runner-two-bulb-two:before {
+  content: "\ea6c";
+}
+.hue-ceiling-runner-two:before {
+  content: "\ea6d";
+}
+.hue-ceiling-runner:before {
+  content: "\ea6e";
+}
+.hue-centris-off:before {
+  content: "\ea6f";
+}
+.hue-centris-three-off:before {
+  content: "\ea70";
+}
+.hue-centris-two-off:before {
+  content: "\ea71";
+}
+.hue-double-spot-off:before {
+  content: "\ea72";
+}
+.hue-entertainment-area:before {
+  content: "\ea73";
+}
+.hue-floor-shade-off:before {
+  content: "\ea74";
+}
+.hue-floor-spot-off:before {
+  content: "\ea75";
+}
+.hue-flourish-alt-off:before {
+  content: "\ea76";
+}
+.hue-friends-of-hue-marbul-suspended:before {
+  content: "\ea77";
+}
+.hue-go-group-off:before {
+  content: "\ea78";
+}
+.hue-iris-group:before {
+  content: "\ea79";
+}
+.hue-lily-two-off:before {
+  content: "\ea7a";
+}
+.hue-motion-sensor-luminance-alt-off:before {
+  content: "\ea7b";
+}
+.hue-motion-sensor-luminance-alt:before {
+  content: "\ea7c";
+}
+.hue-motion-sensor-luminance-off:before {
+  content: "\ea7d";
+}
+.hue-motion-sensor-luminance:before {
+  content: "\ea7e";
+}
+.hue-motion-sensor-movement-off:before {
+  content: "\ea7f";
+}
+.hue-motion-sensor-movement:before {
+  content: "\ea80";
+}
+.hue-motion-sensor-temperature-off:before {
+  content: "\ea81";
+}
+.hue-pendant-cher-off:before {
+  content: "\ea82";
+}
+.hue-pendant-round-off:before {
+  content: "\ea83";
+}
+.hue-play-bar-off:before {
+  content: "\ea84";
+}
+.hue-play-bar-v-off:before {
+  content: "\ea85";
+}
+.hue-plug-eu-alt:before {
+  content: "\ea86";
+}
+.hue-plug-eu-group-off:before {
+  content: "\ea87";
+}
+.hue-plug-eu-group:before {
+  content: "\ea88";
+}
+.hue-plug-eu-off:before {
+  content: "\ea89";
+}
+.hue-plug-group:before {
+  content: "\ea8a";
+}
+.hue-plug-uk-group-off:before {
+  content: "\ea8b";
+}
+.hue-plug-uk-group:before {
+  content: "\ea8c";
+}
+.hue-plug-uk-off:before {
+  content: "\ea8d";
+}
+.hue-plug-us:before {
+  content: "\ea8e";
+}
+.hue-qr:before {
+  content: "\ea8f";
+}
+.hue-room-attic-alt-off:before {
+  content: "\ea90";
+}
+.hue-room-attic-off:before {
+  content: "\ea91";
+}
+.hue-room-balcony-off:before {
+  content: "\ea92";
+}
+.hue-room-bathroom-off:before {
+  content: "\ea93";
+}
+.hue-room-bbq-off:before {
+  content: "\ea94";
+}
+.hue-room-bedroom-off:before {
+  content: "\ea95";
+}
+.hue-room-carport-off:before {
+  content: "\ea96";
+}
+.hue-room-closet-off:before {
+  content: "\ea97";
+}
+.hue-room-computer-off:before {
+  content: "\ea98";
+}
+.hue-room-dining-off:before {
+  content: "\ea99";
+}
+.hue-room-driveway-off:before {
+  content: "\ea9a";
+}
+.hue-room-front-door-off:before {
+  content: "\ea9b";
+}
+.hue-room-games-off:before {
+  content: "\ea9c";
+}
+.hue-room-garage-off:before {
+  content: "\ea9d";
+}
+.hue-room-guestroom-off:before {
+  content: "\ea9e";
+}
+.hue-room-gym-off:before {
+  content: "\ea9f";
+}
+.hue-room-hallway-off:before {
+  content: "\eaa0";
+}
+.hue-room-kids-off:before {
+  content: "\eaa1";
+}
+.hue-room-kitchen-off:before {
+  content: "\eaa2";
+}
+.hue-room-laundry-off:before {
+  content: "\eaa3";
+}
+.hue-room-living-off:before {
+  content: "\eaa4";
+}
+.hue-room-lounge-off:before {
+  content: "\eaa5";
+}
+.hue-room-nursery-off:before {
+  content: "\eaa6";
+}
+.hue-room-office-off:before {
+  content: "\eaa7";
+}
+.hue-room-other-off:before {
+  content: "\eaa8";
+}
+.hue-room-outdoors-off:before {
+  content: "\eaa9";
+}
+.hue-room-pool-off:before {
+  content: "\eaaa";
+}
+.hue-room-porch-off:before {
+  content: "\eaab";
+}
+.hue-room-recreation-off:before {
+  content: "\eaac";
+}
+.hue-room-stairs-off:before {
+  content: "\eaad";
+}
+.hue-room-storage-off:before {
+  content: "\eaae";
+}
+.hue-room-studio-off:before {
+  content: "\eaaf";
+}
+.hue-room-terrace-off:before {
+  content: "\eab0";
+}
+.hue-room-toilet-off:before {
+  content: "\eab1";
+}
+.hue-sync-box-alt-off:before {
+  content: "\eab2";
+}
+.hue-sync-box-off:before {
+  content: "\eab3";
+}
+.hue-sync-high-off:before {
+  content: "\eab4";
+}
+.hue-sync-high:before {
+  content: "\eab5";
+}
+.hue-sync-intense-off:before {
+  content: "\eab6";
+}
+.hue-sync-intense:before {
+  content: "\eab7";
+}
+.hue-sync-moderate-off:before {
+  content: "\eab8";
+}
+.hue-sync-moderate:before {
+  content: "\eab9";
+}
+.hue-sync-music-alt-off:before {
+  content: "\eaba";
+}
+.hue-sync-music-alt:before {
+  content: "\eabb";
+}
+.hue-sync-music-off:before {
+  content: "\eabc";
+}
+.hue-sync-music:before {
+  content: "\eabd";
+}
+.hue-sync-subtle-off:before {
+  content: "\eabe";
+}
+.hue-sync-subtle:before {
+  content: "\eabf";
+}
+.hue-wall-appear-group-off:before {
+  content: "\eac0";
+}
+.hue-wall-appear-off:before {
+  content: "\eac1";
+}
+.hue-wall-impress-narrow-three:before {
+  content: "\eac2";
+}
+.hue-wall-impress-narrow-two:before {
+  content: "\eac3";
+}
+.hue-wall-inara-alt:before {
+  content: "\eac4";
+}
+.hue-wall-inara:before {
+  content: "\eac5";
+}
+.hue-wall-lantern-off:before {
+  content: "\eac6";
+}
+.hue-wall-runner:before {
+  content: "\eac7";
+}
+.hue-wall-spot-off:before {
+  content: "\eac8";
+}
+.hue-wellner-solid-off:before {
+  content: "\eac9";
+}
+.hue-wellness-off:before {
+  content: "\eaca";
+}
